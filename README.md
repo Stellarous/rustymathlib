@@ -1,1 +1,2 @@
-This is a math python library programmed in rust for performance.
+# rustymathlib
+This is a python library for running mathematical functions developed in rust for performance.
